@@ -1,7 +1,6 @@
 # UniKER
 ## Introduction
 The official Pytorch implementation of the paper [UniKER: A Unified Framework for Combining Embedding and Definite Horn Rule Reasoning for Knowledge Graph Inference](https://aclanthology.org/2021.emnlp-main.769.pdf)
-Implemented features
 
 ## Supported Models:
 * RotatE, pRotatE, TransE, ComplEx, DistMult
