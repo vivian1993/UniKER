@@ -1,0 +1,17 @@
+0.932938856	_also_see	_also_see_v
+0.127533366	_also_see	_also_see_v	_also_see_v
+0.129080119	_also_see	_also_see	_also_see_v
+0.126767431	_also_see	_also_see	_also_see
+0.147801197	_verb_group	_derivationally_related_form_v	_derivationally_related_form
+0.492857143	_synset_domain_topic_of	_derivationally_related_form	_synset_domain_topic_of
+0.82887078	_synset_domain_topic_of	_hypernym	_synset_domain_topic_of
+0.726666667	_synset_domain_topic_of	_hypernym_v	_synset_domain_topic_of
+0.887323944	_synset_domain_topic_of	_instance_hypernym	_synset_domain_topic_of
+0.530973451	_has_part	_has_part	_instance_hypernym_v
+0.103696099	_has_part	_has_part	_hypernym_v
+0.318605594	_derivationally_related_form	_derivationally_related_form	_verb_group_v
+0.165829146	_hypernym	_verb_group	_hypernym
+0.109362055	_hypernym	_has_part	_hypernym
+0.165829146	_hypernym	_verb_group_v	_hypernym
+0.11352133	_hypernym	_has_part_v	_hypernym
+0.382854359	_derivationally_related_form	_verb_group_v	_derivationally_related_form
